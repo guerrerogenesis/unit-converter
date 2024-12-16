@@ -1,7 +1,5 @@
 # To install
 Is neccesary node version +20 and npm +10.
-  npm: '10.8.2',
-  node: '20.18.1',
 
 To deploy on local enviroment use "npm install" command 
 and then "npm run dev" to open http://localhost:5173/ on browser. 
